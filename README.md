@@ -1,14 +1,13 @@
-# to-do-list
-#To-Do List Application
+# To-Do List Application
 A simple to-do list application to manage and keep track of your tasks.
 
-##Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-###Prerequisites
+### Prerequisites
 This application uses JavaScript, HTML, and CSS. Basic knowledge of these technologies is recommended.
 
-###Installation
+### Installation
 Clone or download the repository to your local machine.
 Open the index.html file in your preferred browser.
 Usage
@@ -23,7 +22,7 @@ Remove completed tasks from the list.
 Contributing
 If you would like to contribute to this project, feel free to open a pull request or submit a suggestion.
 
-###License
+### License
 This project is licensed under the MIT License 
 
 MIT License
