@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 This application uses JavaScript, HTML, and CSS. Basic knowledge of these technologies is recommended.
 
 ### Installation
-Clone or download the repository to your local machine.
+Clone or download the repository https://github.com/JBShaffer91/to-do-list.git to your local machine.
 Open the index.html file in your preferred browser.
 Usage
 Type a task into the input field.
