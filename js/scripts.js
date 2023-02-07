@@ -34,6 +34,7 @@ window.onload = function() {
         }
         renderTodos();
       });
+      
       todoItem.appendChild(checkbox);
       const label = document.createElement('label');
       label.innerText = todo.text;
