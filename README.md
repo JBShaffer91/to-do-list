@@ -10,12 +10,12 @@ This application uses JavaScript, HTML, and CSS. Basic knowledge of these techno
 ### Installation
 Clone or download the repository https://github.com/JBShaffer91/to-do-list.git to your local machine.
 Open the index.html file in your preferred browser.
-Usage
+### Usage
 Type a task into the input field.
 Click the "Add" button to add the task to the to-do list.
 Check the box next to the task to mark it as complete.
 The completed task will be removed from the list.
-Features
+### Features
 Add new tasks to the to-do list.
 Mark tasks as complete.
 Remove completed tasks from the list.
