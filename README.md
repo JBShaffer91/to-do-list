@@ -19,7 +19,7 @@ The completed task will be removed from the list.
 Add new tasks to the to-do list.
 Mark tasks as complete.
 Remove completed tasks from the list.
-Contributing
+# Contributing
 If you would like to contribute to this project, feel free to open a pull request or submit a suggestion.
 
 ### License
