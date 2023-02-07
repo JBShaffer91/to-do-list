@@ -23,7 +23,7 @@ Remove completed tasks from the list.
 If you would like to contribute to this project, feel free to open a pull request or submit a suggestion.
 
 ### License
-This project is licensed under the MIT License 
+This project is licensed under:
 
 MIT License
 
